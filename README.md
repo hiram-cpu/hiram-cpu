@@ -17,6 +17,10 @@ Estoy listo para iniciar mi próxima misión profesional[cite: 1]. Busco roles d
 *   **Lenguajes:** Python, SQL, VBA.
 *   **Gestión y Visualización:** Power BI, Big Data, Visualización de datos.
 *   **Especialidades:** Machine Learning, Inteligencia Artificial, Estadística, Aprendizaje Supervisado, Aprendizaje No Supervisado.
+*   
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiram-cpu&layout=compact&theme=dark" alt="Lenguajes más usados" />
+</div>
 
 ## 📫 Conectemos
 Si tu equipo busca a alguien que vea más allá de las hojas de cálculo para construir soluciones innovadoras, ¡conectemos![cite: 1]
