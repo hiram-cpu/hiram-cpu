@@ -6,7 +6,7 @@ Soy un Científico de Datos y estudiante de Actuaría en la BUAP, apasionado por
 
 Durante mi experiencia técnica previa, perfeccioné una habilidad vital: la capacidad de traducir diagnósticos complejos a explicaciones sencillas y estratégicas. Hoy, aplico ese mismo principio para convertir modelos de Machine Learning y bases de datos en *insights* de negocio claros y accionables, dominando el arte del Data Storytelling.
 
-Estoy listo para iniciar mi próxima misión profesional[cite: 1]. Busco roles donde pueda aportar mi capacidad de adaptación y fusionar mi visión actuarial (evaluación de riesgos, proyecciones financieras) con arquitecturas de datos modernas.
+Estoy listo para iniciar mi próxima misión profesional. Busco roles donde pueda aportar mi capacidad de adaptación y fusionar mi visión actuarial (evaluación de riesgos, proyecciones financieras) con arquitecturas de datos modernas.
 
 ## 🚀 Lo que hago y exploro
 *   **Modelado Predictivo:** Desarrollo de modelos de Machine Learning para proyecciones y análisis, como la implementación de regresiones lineales múltiples para pronósticos de ventas (ej. análisis con el dataset "Advertising" de Kaggle).
