@@ -22,9 +22,7 @@ Estoy listo para iniciar mi próxima misión profesional. Busco roles donde pued
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiram-cpu&layout=compact&theme=dark" alt="Lenguajes más usados" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiram-cpu&layout=compact&theme=dark&count_weight=1&size_weight=0&exclude_repo=junk-repo" alt="Lenguajes más usados" />
-</div>
+
 ## 📫 Conectemos
 Si tu equipo busca a alguien que vea más allá de las hojas de cálculo para construir soluciones innovadoras, ¡conectemos![cite: 1]
 
