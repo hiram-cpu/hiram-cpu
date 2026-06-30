@@ -1,4 +1,4 @@
-# Hola, soy Hiram Enrique Cruz Cortes 👋
+# Hola, soy Hiram Enrique Cruz Cortes 
 
 ### Científico de Datos | Estudiante de Actuaría
 
