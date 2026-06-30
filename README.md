@@ -2,7 +2,7 @@
 
 ### Científico de Datos | Estudiante de Actuaría
 
-Soy un Científico de Datos y estudiante de Actuaría en la BUAP, apasionado por encontrar el arte y la creatividad ocultos detrás de los patrones numéricos. Con una mente analítica (y un enfoque INTP para la resolución lógica de problemas), creo firmemente que los datos cuentan historias, y mi trabajo es saber escucharlas y traducirlas.
+Soy un Científico de Datos y estudiante de Actuaría en la BUAP, apasionado por encontrar el arte y la creatividad ocultos detrás de los patrones numéricos. Con una mente analítica, creo firmemente que los datos cuentan historias, y mi trabajo es saber escucharlas y traducirlas.
 
 Durante mi experiencia técnica previa, perfeccioné una habilidad vital: la capacidad de traducir diagnósticos complejos a explicaciones sencillas y estratégicas. Hoy, aplico ese mismo principio para convertir modelos de Machine Learning y bases de datos en *insights* de negocio claros y accionables, dominando el arte del Data Storytelling.
 
